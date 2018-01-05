@@ -16,7 +16,7 @@ h1 {
 .sidebar {
   display: grid;
   text-align: center;
-  width: 400px;
+  width: 300px;
   float: left;
   background-color: yellow;
   font-size: 20px;
@@ -29,7 +29,7 @@ h1 {
 }
 
 img.backpack {
-  max-width: 380px;
+  max-width: 290px;
 }
 
 img.logo {
