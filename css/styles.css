@@ -12,6 +12,7 @@ h1 {
   color: grey;
   text-align: center;
 }
+
 .sidebar {
   display: grid;
   width: 300px;
@@ -19,6 +20,15 @@ h1 {
   background-color: yellow;
   font-size: 20px;
   padding-bottom: 100%;
+}
+
+.intro {
+  text-align: center;
+  font-size: 20px;
+}
+
+img.backpack {
+  max-width: 300px;
 }
 
 img.logo {
