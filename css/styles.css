@@ -30,11 +30,19 @@ h1 {
   padding-bottom: 100%;
 }
 
+.sidebar-list{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .intro {
   float: right;
-  margin: 100px;
   padding: 10px;
   text-align: center;
+}
+
+.intro p {
+  font-style: italic;
   font-size: 20px;
 }
 
@@ -63,4 +71,12 @@ h2 {
   color: grey;
   text-align: center;
   background-color: gold;
+}
+
+@media screen and (min-width: 768px) {
+  .intro {
+    width: 500px;
+    float: right;
+    padding: 20px;
+  }
 }
