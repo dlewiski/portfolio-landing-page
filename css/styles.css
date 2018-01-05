@@ -1,3 +1,11 @@
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
+
 body {
   background-color: skyblue;
 }
@@ -14,7 +22,6 @@ h1 {
 }
 
 .sidebar {
-  display: grid;
   text-align: center;
   width: 300px;
   float: left;
@@ -24,6 +31,9 @@ h1 {
 }
 
 .intro {
+  float: right;
+  margin: 100px;
+  padding: 10px;
   text-align: center;
   font-size: 20px;
 }
@@ -42,7 +52,7 @@ img.teton1{
   float: right;
 }
 
-img.headshot {
+img.beanie {
   float: left;
   display: block;
   max-width: 300px;
@@ -53,8 +63,4 @@ h2 {
   color: grey;
   text-align: center;
   background-color: gold;
-}
-
-h5 {
-  border: 0px;
 }
