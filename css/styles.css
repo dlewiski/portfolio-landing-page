@@ -1,12 +1,20 @@
 body {
-  background-color: green;
+  background-color: skyblue;
+}
+
+.top-header {
+  padding: 20px;
+  width: 100%;
+  background-color: gold;
 }
 
 h1 {
-  color: blue;
+  color: grey;
+  text-align: center;
 }
 
 img {
+  float: left;
   display: block;
   max-width: 300px;
   margin: auto;
@@ -14,6 +22,7 @@ img {
 
 h2 {
   color: grey;
+  text-align: center;
 }
 
 h5 {
