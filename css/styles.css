@@ -1,4 +1,4 @@
-body{
+body {
   background-color: green;
 }
 
@@ -6,12 +6,16 @@ h1 {
   color: blue;
 }
 
-img{
+img {
   display: block;
   max-width: 300px;
   margin: auto;
 }
 
-h2{
-  color: blue;
+h2 {
+  color: grey;
+}
+
+h5 {
+  border: 0px;
 }
