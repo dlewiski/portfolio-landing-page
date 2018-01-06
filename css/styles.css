@@ -41,13 +41,15 @@ h1 {
 }
 
 .bottom-container {
-  text-align: center;
-  margin: 300px;
   position: relative;
+  padding: 5px;
+  text-align: center;
+  display: grid;
 }
 
-.bottom-container p{
-  color: blue;
+.bottom-container p {
+  font-style: italic;
+  font-size: 20px;
 }
 
 .panel-info{
@@ -92,6 +94,6 @@ h2 {
   .intro {
     width: 500px;
     float: right;
-    padding: 20px;
+    padding: 50px;
   }
 }
