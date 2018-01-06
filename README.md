@@ -1,37 +1,32 @@
-# _{Application Name}_
+# _David Lewis Epicodus Portfolio_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Webpages that display information about David Lewis and provide links to beginner coding projects, January 5th, 2018_
 
-#### By _**{List of contributors}**_
+#### By _David Lewis_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This website contains 5 different webpages. There is a homepage that links to 4 other pages that provide different sets of links and information. The purpose of this website is to convey and provide information about the Epicodus student David Lewis. You can also find links to some of his completed coding projects. Just follow the links on the "Complete Projects" page._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* Type in the URL dlewiski.github.io/portfolio-landing-page to any web browser
+* Visit the github account dlewiski, download the index.html and open it in any web browser
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs!_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Please reach out to me via my github https://github.com/dlewiski with any questions or issues_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Used HTML, Git, CSS, Bootstrap_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2018 **_David Lewis and Epicodus_**
