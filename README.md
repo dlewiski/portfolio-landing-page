@@ -1,6 +1,6 @@
 # _David Lewis Epicodus Portfolio_
 
-#### _Webpages that display information about David Lewis and provide links to beginner coding projects, January 5th, 2018_
+#### _Webpages that displays information about David Lewis and provide links to beginner coding projects, January 5th, 2018_
 
 #### By _David Lewis_
 
